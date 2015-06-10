@@ -161,7 +161,6 @@
 				TargetAttributes = {
 					BA9AAB771B28978B00B5DBB7 = {
 						CreatedOnToolsVersion = 6.3.2;
-						DevelopmentTeam = UC6E68TG98;
 					};
 					BA9AAB8C1B28978B00B5DBB7 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -412,6 +411,7 @@
 				BA9AAB991B28978B00B5DBB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA9AAB9A1B28978B00B5DBB7 /* Build configuration list for PBXNativeTarget "SomethingTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +420,7 @@
 				BA9AAB9C1B28978B00B5DBB7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
